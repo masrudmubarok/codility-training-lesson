@@ -1,3 +1,3 @@
 <?php
 
-echo "Faktorial";
+echo "Bilangan Faktorial";
